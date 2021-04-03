@@ -32,7 +32,7 @@ I love watching movies in the theater, reading fictions, listening to pop music,
   >*上善若水。水利万物而不争。Supreme good is like water. Water greatly benefits all things without conflict.*
 
 ### Goals
-- [ ] Get into a top-ranked univeristy.
+- [x] Get into a top-ranked univeristy.
 - [x] Keep GPA above 3.7.
 - [ ] Do research/academic projects to be competitive.
 - [ ] Get into a top-ranked graduate school.
