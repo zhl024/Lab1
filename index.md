@@ -13,8 +13,10 @@ I am a third year student at **UCSD** pursuing degree in **Math-CS**. Motivated,
 - Project of learning patterns in Cytomegalovirus DNA; designing procedures for estimating the snow 
 density from the gain reading on the snow gauge (In R).
 - Implementation of Huffman-Compression (in C++).
+
 ## Project In Progress
 The development of **FlapJS**, an online tool to build, simulate, and test automata and other formal models of computation. This student-built product is being piloted for use by CSE105 students. The Project is supervised by Professor [Mia Minnes](https://cseweb.ucsd.edu/~minnes/). And you can try the app out [here](https://flapjs.github.io/FLAPJS-WebApp/).
+
 ## Skills
 - Data Mining, Data Exploration, Data Analysis.
 - Comfortable Programming Languages: Java, C, C++, Python, R, Stata, Julia, MATLAB, ARM Assembly.
@@ -23,6 +25,7 @@ The development of **FlapJS**, an online tool to build, simulate, and test autom
 ## Personal Life
 ### Interests
 I love watching movies in the theater, reading fictions, listening to pop music, and playing video games. Hard to believe based on my size, but I am a Taekwondo red-black belt owner and a nation-certified level two referee of Chinese traditional martial arts.
+
 ### Favorites
 - favorite movie is Hello Mr.Billionaire.
 - favorite song is [*I See Fire*](https://www.youtube.com/watch?v=2fngvQS_PmQ).
