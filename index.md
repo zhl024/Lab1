@@ -29,10 +29,10 @@ I love watching movies in the theater, reading fictions, listening to pop music,
 - favorite fiction is [The Record of Unusual Creatures](https://book.qidian.com/info/3242304).
 - favorite game is **Divinity: Original Sin II**.
 - favorite quote from ***Dao De Jing*** writtern by **Lao Zi**:
-  >*上善若水。水利万物而不争。*
-  >*Supreme good is like water. Water greatly benefits all things without conflict.*
+  >*上善若水。水利万物而不争。Supreme good is like water. Water greatly benefits all things without conflict.*
+
 ### Goals
-- [x] Get into a top-ranked univeristy.
+- [ ] Get into a top-ranked univeristy.
 - [x] Keep GPA above 3.7.
 - [ ] Do research/academic projects to be competitive.
 - [ ] Get into a top-ranked graduate school.
